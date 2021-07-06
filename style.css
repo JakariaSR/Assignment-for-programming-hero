@@ -1,11 +1,12 @@
 h1{font-family: 'Lobster', cursive;font-size: 50px;}
 h2{font-family: 'Raleway', sans-serif; font-size: 35px;color: #ba2d0b;}
+h3{font-family: 'Raleway', sans-serif; }
 p{
     font-family: 'Raleway', sans-serif; font: 17;
 }
 li{font-family:font-family: 'Raleway', sans-serif;text-align: right;font-size: 16px;}
-#streetfood{
-    color: #ba2d0b; font-size: 80px;
+.streetfood{
+    color: #ba2d0b; font-size: 80px; font-family:'Lobster', cursive;
 }
 #intro-sec{display: flex;
     margin:40px 40px 100px 40px;
@@ -25,5 +26,5 @@ li{font-family:font-family: 'Raleway', sans-serif;text-align: right;font-size: 1
 #flex{display: flex;}
 #bls{text-align: center; padding: 20px; margin: 20px 80px;}
 .boxed-Item{text-align: left; padding: 20px;margin:20px; box-shadow:1px 1px 15px #f1b3a4a1;border-radius: 20px;}
-.section{position: absolute;}
 .Lsimg{border-radius: 5%;}
+footer{text-align: center; background-color: #d5f2e3 ; height: auto; padding: 20px 80px;color: rgb(110, 97, 97);}
