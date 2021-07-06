@@ -1,0 +1,14 @@
+h1{font-family: 'Lobster', cursive;font-size: 50px;}
+p{
+    font-family:'Open Sans', sans-serif;
+}
+#streetfood{
+    color: #ba2d0b;
+}
+.intro-part-two {
+    width: 40%;
+}
+#intro-part-one{width: 40%; padding: 5%;}
+#intro-sec{display: flex;margin: 20px;background-image: url(first-section-background.png);background-repeat: no-repeat;}
+.button{font-family:'Lobster', cursive; background-image:linear-gradient(#b38a58,#d5f2e3); padding: 5px; text-decoration: none;color: #0d1f22;}
+.button:hover{background-color: white;}
