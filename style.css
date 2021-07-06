@@ -1,24 +1,29 @@
 h1{font-family: 'Lobster', cursive;font-size: 50px;}
-h2{font-family: 'Open Sans', sans-serif;font-size: 35px;color: #ba2d0b;}
+h2{font-family: 'Raleway', sans-serif; font-size: 35px;color: #ba2d0b;}
 p{
-    font-family:'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif; font: 17;
 }
-li{font-family:'Open Sans', sans-serif;text-align: right;font-size: 16px;}
+li{font-family:font-family: 'Raleway', sans-serif;text-align: right;font-size: 16px;}
 #streetfood{
-    color: #ba2d0b;
+    color: #ba2d0b; font-size: 80px;
 }
 #intro-sec{display: flex;
     margin:40px 40px 100px 40px;
     background-image: url(first-section-background.png);
     background-repeat: no-repeat;}
 .left-part{width:40%;
-            padding: top 80px;padding: right 150px;text-align: justify; margin-top: 140px;}
+            padding: top 80px;padding: right 150px;text-align: justify;}
 .intro-part-two {
     width: 40%; padding-left:150px ;
 }
 #mid-sec{display: flex;
-        background-image:url(7.png);background-repeat: no-repeat;background-size: cover;}
+        background-image:url(7.png);background-repeat: no-repeat;background-size: cover;margin-bottom: 100px;}
         
 #mid-sec-text{text-align: right; list-style-position: inside; padding: 80px;}
 .button{ font-family:'Lobster', cursive; background-image:linear-gradient(#ba2d0b,#d5f2e3); text-decoration: none;color: #0d1f22; padding: 15px 25px; border: none; border-radius: 10px; box-shadow: 2px 5px 20px #ba2e0b54;margin-top: 40px;}
 #mid-sec-img{align-items: center; padding: 80px;}
+#flex{display: flex;}
+#bls{text-align: center; padding: 20px; margin: 20px 80px;}
+.boxed-Item{text-align: left; padding: 20px;margin:20px; box-shadow:1px 1px 15px #f1b3a4a1;border-radius: 20px;}
+.section{position: absolute;}
+.Lsimg{border-radius: 5%;}
